@@ -1,1 +1,1 @@
-# I will update my Solidity learning here
+# I will update my Solidity learnings here
